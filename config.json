@@ -3,7 +3,6 @@
     "subTitle":"Are You OK?",
     "avatarUrl":"https://avatars.githubusercontent.com/u/173553257?s=400&u=03e70409fac4397a7eb3fd8856e72df053ff7eb5&v=4",
     "GMEEK_VERSION":"last"
-    "displayTitle":"Meekdai",
     "homeUrl":"http://blog.meekdai.com",
     "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "email":"laoliumc@gmail.com",
@@ -15,7 +14,6 @@
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "i18n":"CN",
-    "UTC":8,
     "themeMode":"manual",
     "dayTheme":"light",
     "nightTheme":"dark_colorblind",
